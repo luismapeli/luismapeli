@@ -27,6 +27,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Luis Mapeli](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismapeli/)](https://www.linkedin.com/in/luismapeli/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.alves.mapeli@gmail.com)](mailto:luis.alves.mapeli@gmail.com)
+[![Linkedin: Luis Mapeli](https://img.shields.io/badge/-LuisMapeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismapeli/)](https://www.linkedin.com/in/luismapeli/)
+[![Gmail Badge](https://img.shields.io/badge/-luis.alves.mapeli@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.alves.mapeli@gmail.com)](mailto:luis.alves.mapeli@gmail.com)
 [![GitHub luismapeli]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/luismapeli)
