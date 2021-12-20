@@ -2,7 +2,7 @@
 
 > Sou desenvolvedor da empresa Grupo Rio Branco.
 
-🔭 Atualmente faço sou atribuido a diversas atividade tanto de Back-End quanto Front-End.
+🔭 Atualmente exerço diversas atividades tanto de Back-End quanto Front-End.
 
 ----
 
