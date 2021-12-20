@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Luis Henrique Mapeli}!</strong>
+## 💜 Olá, meu nome é <strong>Luis Henrique Mapeli.</strong>
 
 > Sou desenvolvedor da empresa Grupo Rio Branco.
 
